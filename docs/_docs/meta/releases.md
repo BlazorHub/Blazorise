@@ -6,6 +6,36 @@ toc: true
 toc_label: "Version history"
 ---
 
+## 0.8.8.4 (quick fix)
+
+- Upgrade all projects to .Net Core 3.1.2 and Blazor 3.2-preview2
+
+For detail description of changes please look at [v0.8.8.4 release page]({{ "/docs/release-notes/release0884/" | relative_url }})
+
+## 0.8.8.3 (quick fix)
+
+Reupload NuGet package.
+
+For detail description of changes please look at [v0.8.8.3 release page]({{ "/docs/release-notes/release0883/" | relative_url }})
+
+## 0.8.8.2 (quick fix)
+
+### Bug Fixes
+
+- [#518](https://github.com/stsrki/Blazorise/issues/518) Alerts are always visible
+- [#517](https://github.com/stsrki/Blazorise/issues/517) Style missing from Table components
+
+For detail description of changes please look at [v0.8.8.2 release page]({{ "/docs/release-notes/release0882/" | relative_url }})
+
+## 0.8.8.1 (quick fix)
+
+### Bug Fixes
+
+- [#494](https://github.com/stsrki/Blazorise/issues/494) Missing SortDirection.None
+- [#496](https://github.com/stsrki/Blazorise/issues/496) InvalidOperationException: Unsupported type System.UInt64 for NumericEdit
+
+For detail description of changes please look at [v0.8.8.1 release page]({{ "/docs/release-notes/release0881/" | relative_url }})
+
 ## 0.8.8
 
 ### Breaking changes
